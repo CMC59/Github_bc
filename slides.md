@@ -47,3 +47,9 @@ git checkout -b new-branch
 git checkout new-branch
 ```
 ---
+
+## Merge branch on main
+```sh
+git checkout new-branch
+```
+---
