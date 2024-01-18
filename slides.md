@@ -95,3 +95,8 @@ git pull origin your-branch
 - [ ] Basic
 - [ ] Simple
 ---
+
+## Images
+<div style="text-align:center;">
+  <img src="https://i.gifer.com/origin/5d/5d0ef729d17b26f8d55b3add0455be13_w200.webp" alt="Alt Text" />
+</div>
