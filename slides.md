@@ -127,3 +127,11 @@ git commit
 ```
 
 ---
+## EXTRAS
+😧 :anguished:	😮 :open_mouth:	😬 :grimacing:
+😕 :confused:	😯 :hushed:	😑 :expressionless:
+😒 :unamused:	😅 :sweat_smile:	😓 :sweat:
+😥 :disappointed_relieved:	😩 :weary:	😔 :pensive:
+😞 :disappointed:	😖 :confounded:	😨 :fearful:
+😇 :innocent:	👽 :alien:	💛 :yellow_heart:
+💙 :blue_heart:	💜 :purple_heart:	❤️ :heart:
