@@ -45,4 +45,4 @@ Here is my project hosted on Vercel
 For support, email me and me and maybe me@me.itsme
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-SALUT LA TEAM ! HAHAHAHAHAHAHA
+SALUT LA TEAM ! DAVID & MATTHYS ça fait trop plaisir de vous retrouver HAHAHAHAHAHAHA
