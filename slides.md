@@ -50,6 +50,8 @@ git checkout new-branch
 
 ## Merge branch on main
 ```sh
-git checkout new-branch
+git checkout main
+git diff main..my-feature
+git merge my-feature
 ```
 ---
