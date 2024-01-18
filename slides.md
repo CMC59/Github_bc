@@ -135,3 +135,6 @@ git commit
 😞 :disappointed:	😖 :confounded:	😨 :fearful:
 😇 :innocent:	👽 :alien:	💛 :yellow_heart:
 💙 :blue_heart:	💜 :purple_heart:	❤️ :heart:
+
+---
+## How to automate issue closing
