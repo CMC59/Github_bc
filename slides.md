@@ -114,3 +114,16 @@ git pull origin your-branch
 #### Grape Giggle
 
 > Text that is a quote
+
+---
+
+## Code
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+---
