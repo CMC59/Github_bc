@@ -41,3 +41,9 @@ git config -l
 git checkout -b new-branch
 ```
 ---
+
+## Work on a branch
+```sh
+git checkout new-branch
+```
+---
