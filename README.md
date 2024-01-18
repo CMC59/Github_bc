@@ -1,9 +1,9 @@
-# cd presentation_git
+# Git command by Philippe Plaïa
 
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
 ## Running your presentation
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://i.gifer.com/origin/fb/fb5bd02ac2fd8394b8ed0d14301e4eb7_w200.webp)
 - Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
 - Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
 - Edit `index.tsx to add your presentation content.
