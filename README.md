@@ -1,7 +1,9 @@
 # Git command by Philippe Plaïa
 
 Here's what I learned during the git bootcamp
+
 The slides were made with spectacle
+
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
 ## Running your presentation
