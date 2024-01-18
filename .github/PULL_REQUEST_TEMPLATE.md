@@ -1,6 +1,6 @@
 ---
 name: Pull Request Template
-about: Template for creating a pull request
+about: This Template for creating a pull request
 ---
 
 ## Description
