@@ -16,7 +16,7 @@ Why is this change required? What problem does it solve?
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce.
 
 ## Screenshots (if applicable)
-If the changes affect the UI, please include screenshots or GIFs to demonstrate the changes.
+If the changes affect the UI, please include screenshots or GIFs to demonstrate the changes
 
 ## Types of changes
 What types of changes does your code introduce? Put an 'x' in all the boxes that apply:
