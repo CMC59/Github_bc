@@ -31,3 +31,6 @@ Here is my project hosted on Vercel
 ## Support
 
 For support, email me and me and maybe me@me.itsme
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+SALUT LA TEAM ! HAHAHAHAHAHAHA
