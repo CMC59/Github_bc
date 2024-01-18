@@ -144,3 +144,9 @@ git commit
 
 ---
 ## How to use git fragments
+
+---
+## this one will be reverted
+
+---
+## How to fix the last commit message
