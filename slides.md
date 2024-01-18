@@ -24,3 +24,7 @@ git config -l
 ## How to commit changes
 
 ---
+
+## How push a repo
+
+---
