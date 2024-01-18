@@ -138,3 +138,6 @@ git commit
 
 ---
 ## How to automate issue closing
+
+---
+## How to apply commit
