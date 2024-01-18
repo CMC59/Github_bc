@@ -65,3 +65,16 @@ git merge my-feature
 ```sh
 git branch --delete my-feature
 ```
+---
+
+## Pushing changes to remote
+```sh
+git push origin --delete my-feature
+```
+---
+
+## Pulling changes from remote
+```sh
+git pull origin your-branch
+```
+---
