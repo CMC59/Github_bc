@@ -1,13 +1,15 @@
-# Git command by Philippe Plaïa
+# Git command slide by ME
 
-Here's what I learned during the git bootcamp
+Here's what I learned during the github bootcamp
 
-The slides were made with spectacle
+⚡️ I already knew a few of the git commands I use regularly in my company, but this bootcamp helped me learn a few more!
 
-Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
+The slides were made with ❤️ [Spectacle](https://github.com/FormidableLabs/spectacle/).
+
+## Tools
 
 ## Running your presentation
-![Alt Text](https://i.gifer.com/origin/fb/fb5bd02ac2fd8394b8ed0d14301e4eb7_w200.webp)
+![Alt Text](https://i.gifer.com/origin/78/783765d78941ef6eb96f7499509cd67e_w200.webp)
 - Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
 - Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
 - Edit `index.tsx to add your presentation content.
@@ -17,3 +19,15 @@ Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 To build your presentation for a production deploy, run `yarn build` (or `npm build` or `pnpm build`).
 
 The build artifacts will be placed in the `dist` directory. If you'd like to change this location, edit `output.path` in `webpack.config.js`.
+
+## Related
+
+Here is my project hosted on Vercel
+
+[Wanna see it ?](https://github.com/matiassingers/awesome-readme)
+
+![Alt Text](https://i.gifer.com/origin/c2/c235dcca4deaf78ddf61480be9e4a889_w200.webp)
+
+## Support
+
+For support, email me and me and maybe me@me.itsme
