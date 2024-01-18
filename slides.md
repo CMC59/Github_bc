@@ -21,7 +21,7 @@ git init
 
 ---
 
-## How to review change
+## How to review change:
 ```sh
 git diff
 git diff <a_specific_file_or_folder>
