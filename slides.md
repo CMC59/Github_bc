@@ -16,3 +16,11 @@ git config -l
 ## How to initialise a new repository
 
 ---
+
+## How to review change
+
+---
+
+## How to commit changes
+
+---
