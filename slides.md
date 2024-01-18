@@ -90,3 +90,8 @@ git pull origin your-branch
 "Why did the soccer player take so long to eat dinner? Because he thought he couldn’t use his hands."
 ---
 
+## Lists
+- [x] Condoms
+- [ ] Basic
+- [ ] Simple
+---
