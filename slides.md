@@ -1,0 +1,18 @@
+--- { "layout" : "center" }
+# cd presentation_git by LE VIOC' PHILIPPE PLAIA
+
+---
+
+<!-- slides.md -->
+
+# GitHub Bootcamp
+```sh
+git config --global user.name "Your full name"
+git config --global user.email "youremail@provider.com"
+git config -l
+```
+---
+
+## How to initialise a new repository
+
+---
