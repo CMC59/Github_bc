@@ -3,7 +3,7 @@
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
 ## Running your presentation
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
 - Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
 - Edit `index.tsx to add your presentation content.
