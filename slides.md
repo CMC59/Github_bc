@@ -141,3 +141,6 @@ git commit
 
 ---
 ## How to apply commit
+
+---
+## How to use git fragments
