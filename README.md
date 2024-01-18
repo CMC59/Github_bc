@@ -6,6 +6,10 @@ Here's what I learned during the github bootcamp
 
 The slides were made with ❤️ [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
+> "Git seamlessly utilizes an SSH tunnel for secure communication when pushing and pulling changes from a remote repository."
+![Alt Text](https://i.gifer.com/origin/e7/e798e4c638748ac160b94154e2707101_w200.webp)
+
+
 # Advancement status
 
 | Challenge | .md     | Exercice                      |
@@ -16,7 +20,6 @@ The slides were made with ❤️ [Spectacle](https://github.com/FormidableLabs/s
 ![](https://geps.dev/progress/80)
 
 ## Running your presentation
-![Alt Text](https://i.gifer.com/origin/78/783765d78941ef6eb96f7499509cd67e_w200.webp)
 - Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
 - Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
 - Edit `index.tsx to add your presentation content.
