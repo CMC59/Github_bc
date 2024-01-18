@@ -15,9 +15,16 @@ git config -l
 
 ## How to initialise a new repository
 
+```sh
+git config --global user.name "Your full name"
+git config --global user.email "youremail@provider.com"
+git config -l
+```
+
 ---
 
 ## How to review change
+
 
 ---
 
@@ -27,4 +34,10 @@ git config -l
 
 ## How push a repo
 
+---
+
+## Create a new branch
+```sh
+git checkout -b new-branch
+```
 ---
