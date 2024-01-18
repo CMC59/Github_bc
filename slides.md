@@ -71,6 +71,13 @@ git branch --delete my-feature
 ```sh
 git push origin --delete my-feature
 ```
+
+<red> this is how we do it !</red>
+<white> this is how we do it !</white>
+<style>
+red { color: red }
+white { color: white }
+</style>
 ---
 
 ## Pulling changes from remote
