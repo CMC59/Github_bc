@@ -100,3 +100,17 @@ git pull origin your-branch
 <div style="text-align:center;">
   <img src="https://i.gifer.com/origin/5d/5d0ef729d17b26f8d55b3add0455be13_w200.webp" alt="Alt Text" />
 </div>
+
+---
+
+## Headers & Quotes
+
+# Banana Bonanza
+
+## Wacky Watermelon
+
+### Chuckleicious Cherry
+
+#### Grape Giggle
+
+> Text that is a quote
