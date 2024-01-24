@@ -36,7 +36,7 @@ The build artifacts will be placed in the `dist` directory. If you'd like to cha
 
 Here is my project hosted on Vercel
 
-[Wanna see it ?](https://github.com/matiassingers/awesome-readme)
+[Wanna see it ?](https://github-bc.vercel.app)
 
 ![Alt Text](https://i.gifer.com/origin/c2/c235dcca4deaf78ddf61480be9e4a889_w200.webp)
 
