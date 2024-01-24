@@ -8,7 +8,7 @@ The slides were made with ❤️ [Spectacle](https://github.com/FormidableLabs/s
 
 > "Git seamlessly utilizes an SSH tunnel for secure communication when pushing and pulling changes from a remote repository."
 
-![Alt Text](https://i.gifer.com/origin/e7/e798e4c638748ac160b94154e2707101_w200.webp)
+![Alt Text](https://media1.giphy.com/media/YhDJb7WEBIfDJ1gnok/200w.webp?cid=ecf05e470079x5m4dnr5ij8j12o7je2nptshk7yu4sx0jxt3&ep=v1_gifs_search&rid=200w.webp&ct=g)
 
 a tunnel right ?
 
