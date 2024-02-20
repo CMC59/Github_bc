@@ -18,6 +18,9 @@ a tunnel right ?
 | :-------- | :------- | :-------------------------------- |
 | **`103`**      | **`01`** | **1.4**  |
 
+![](https://geps.dev/progress/80)
+
+
 # Progression
 
 ## 101
@@ -35,7 +38,6 @@ a tunnel right ?
  - [ ] 03.md
  - [ ] 04.md
 
-![](https://geps.dev/progress/80)
 
 ## Running your presentation
 - Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
