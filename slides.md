@@ -140,15 +140,32 @@ git commit
 
 ---
 ## How to automate issue closing
-
+### Use Git commands to automate closing of an issue using keywords in commit messages
+```
+git commit -m "Fixes #123"
+```
 ---
 ## How to apply commit
 
+```
+git cherry-pick <commit-hash>
+```
+
 ---
 ## How to use git fragments
+```
+git add -p
+```
 
 ---
 ## this one will be reverted
+```
+git revert <commit-hash>
+```
 
 ---
 ## How to fix the last commit message
+```
+git commit --amend
+```
+---
